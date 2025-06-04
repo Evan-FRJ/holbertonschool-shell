@@ -1,1 +1,1 @@
-WTF am I doing ?
+this is a directory
